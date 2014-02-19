@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo 'Hello world';
+            echo 'Git test';
         ?>
     </body>
 </html>

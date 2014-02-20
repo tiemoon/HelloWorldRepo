@@ -15,6 +15,8 @@ and open the template in the editor.
             echo 'Git test';
             echo 'this is a tutorial on Git';
             echo 'upper one';
+            echo 'upper';
+            echo 'lower';
         ?>
     </body>
 </html>

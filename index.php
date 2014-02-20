@@ -18,6 +18,7 @@ and open the template in the editor.
             echo 'upper';
             echo 'lower two';
             echo 'lower';
+            echo 'upper two';
         ?>
     </body>
 </html>

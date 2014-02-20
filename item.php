@@ -14,4 +14,5 @@
 class Item {
     public $id; 
    public $code;
+   public $qty;
 }

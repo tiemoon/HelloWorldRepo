@@ -12,5 +12,5 @@
  * @author TOSHIBA
  */
 class Item {
-    //put your code here
+    public $code;
 }

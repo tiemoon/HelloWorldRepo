@@ -12,5 +12,6 @@
  * @author TOSHIBA
  */
 class Item {
-    public $code;
+    public $id; 
+   public $code;
 }
